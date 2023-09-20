@@ -1,7 +1,7 @@
-Hello My name is Mohammed Mustafa
+Hello
 ========================================================================================================================================
 
-Hi, I'm Mohammed, a front-end developer with a passion for creating responsive and intuitive user interfaces. I specialize in using HTML, CSS, and JavaScript as a base.
+I'm Mohammed, a front-end developer with a passion for creating responsive and intuitive user interfaces. I specialize in using HTML, CSS, and JavaScript as a base.
 
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [momust.it@gmail.com](mailto:momust.it@gmail.com)
