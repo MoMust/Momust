@@ -6,7 +6,7 @@ I'm Mohammed, a front-end developer with a passion for creating responsive and i
 * 🌍  I'm based in Stockholm, Sweden
 * 🖥️  Check out my portfolio at [https://momust.pages.dev/](http://momust.pages.dev/)
 * ✉️  Contact me at [momust.it@gmail.com](mailto:momust.it@gmail.com)
-* 🚀  I'm currently working on a webiste for a company [Velo El](https://veloel.com/) and a side project with Next.js [Blog App](http://https://github.com/MoMust/BlogApp)
+* 🚀  I'm currently working on a webiste[Project Velo El](https://github.com/MoMust/Velo-El) for a company [Velo El](https://veloel.com/), and a side project with Next.js [Blog App](http://https://github.com/MoMust/BlogApp)
 * 🧠  I'm learning Next.js
 
 ### Skills
