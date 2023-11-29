@@ -1,7 +1,6 @@
-☕ Hello
+☕ Mohammed Mustafa
 ========================================================================================================================================
-
-I'm Mohammed, a front-end developer with a passion for creating responsive and intuitive user interfaces. I specialize in using HTML, CSS, and JavaScript as a base.
+`Newly graduate - Front-end / Web-development / React`
 
 * 🌍  I'm based in Stockholm, Sweden
 * 🖥️  Check out my portfolio at [https://momust.pages.dev/](http://momust.pages.dev/)
