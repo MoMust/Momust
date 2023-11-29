@@ -1,6 +1,6 @@
 ☕ Mohammed Mustafa
 ========================================================================================================================================
-`Newly graduate - Front-end / Web-development / React`
+`Newly graduated from KYH, Stockholm - Front-end / Web-development / React`
 
 * 🌍  I'm based in Stockholm, Sweden
 * 🖥️  Check out my portfolio at [https://momust.pages.dev/](http://momust.pages.dev/)
