@@ -1,4 +1,4 @@
-Hello
+☕ Hello
 ========================================================================================================================================
 
 I'm Mohammed, a front-end developer with a passion for creating responsive and intuitive user interfaces. I specialize in using HTML, CSS, and JavaScript as a base.
@@ -9,7 +9,7 @@ I'm Mohammed, a front-end developer with a passion for creating responsive and i
 * 🚀  I'm currently working on a webiste [Project Velo El](https://github.com/MoMust/Velo-El) for a company [Velo El](https://veloel.com/), and a side project with Next.js [Blog App](http://https://github.com/MoMust/BlogApp)
 * 🧠  I'm learning Next.js
 
-### Skills
+### 🧰Languages and tools
 
 
 <p align="left">
