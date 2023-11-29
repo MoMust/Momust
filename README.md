@@ -8,7 +8,7 @@
 * 🚀  I'm currently working on a webiste [Project Velo El](https://github.com/MoMust/Velo-El) for a company [Velo El](https://veloel.com/), and a side project with Next.js [Blog App](http://https://github.com/MoMust/BlogApp)
 * 🧠  I'm learning Next.js
 
-### 🧰Languages and tools
+### 🧰 Languages and tools
 
 
 <p align="left">
