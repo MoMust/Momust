@@ -3,7 +3,7 @@
 `Newly graduated from KYH, Stockholm - Front-end / Web-development / React`
 
 * 🌍  I'm based in Stockholm, Sweden
-* 🖥️  Check out my portfolio at [https://momust.pages.dev/](http://momust.pages.dev/)
+* 🖥️  Check out my [portfolio](https://new-portfolio-c5b.pages.dev/)
 * ✉️  Contact me at [momust.it@gmail.com](mailto:momust.it@gmail.com)
 * 🚀  I'm currently working on a webiste [Project Velo El](https://github.com/MoMust/Velo-El) for a company [Velo El](https://veloel.com/), and a side project with Next.js [Adevicer](http://https://https://github.com/MoMust/Adevicer)
 * 🧠  I'm learning Next.js
