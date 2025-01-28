@@ -5,7 +5,7 @@
 * 🌍  I'm based in Stockholm, Sweden
 * 🖥️  Check out my [portfolio](https://new-portfolio-c5b.pages.dev/)
 * ✉️  Contact me at [momust.it@gmail.com](mailto:momust.it@gmail.com)
-* 🚀  I'm currently working on a side project with Next.js [Adevicer](http://https://https://github.com/MoMust/Adevicer)
+* 🚀  I'm currently working on a side project with Next.js [Adevicer](https://github.com/MoMust/Adevicer)
 * 🧠  I'm learning Next.js
 
 ### 🧰 Developer Stack
